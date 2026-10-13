@@ -46,3 +46,7 @@ Confirm actual workers' compensation, technology E&O, cyber, general liability a
 ## Repository and execution boundary
 
 Original main-branch documents and Wisconsin Surplus planning are preserved byte-for-byte. Website work remains on its separate branch. This release adds only business materials on a review branch; no merge, deployment, DNS modification, account creation, secret creation, purchase, financial transaction, live automation or client outreach is included. Publication and final verification evidence are recorded with the review result rather than treated as proof that the business has adopted these policies.
+
+## Publication status
+
+The source files are published on [docs/noirdaz-business-operations-014](https://github.com/mastrdaz/NOIRDAZ/tree/docs/noirdaz-business-operations-014). Read-only verification on 2026-10-13 confirmed that the original main files and the separate website branch remained unchanged. No pull request has been created; opening a draft pull request awaits the owner's explicit approval. Nothing has been merged. The downloadable release manifest records the exact source commit and verification scope.
