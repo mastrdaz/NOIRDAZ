@@ -1,0 +1,9250 @@
+[
+  {
+    "field": "CLIENT_ID",
+    "label": "Client Id",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "clients/OFFBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "RECORD_DATE",
+    "label": "Record Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "RECORD_OWNER",
+    "label": "Record Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 14
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 44
+      },
+      {
+        "file": "clients/OFFBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_LEGAL_NAME",
+    "label": "Client Legal Name",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 8
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 55
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 45
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 63
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 165
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 63
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 65
+      },
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 57
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 71
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 65
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_DBA",
+    "label": "Client Dba",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 8
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_JURISDICTION",
+    "label": "Client Jurisdiction",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_BILLING_ADDRESS",
+    "label": "Client Billing Address",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "BILLING_CONTACT",
+    "label": "Billing Contact",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "BILLING_EMAIL",
+    "label": "Billing Email",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_ADDRESS",
+    "label": "Client Address",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 10
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 10
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "TECHNICAL_CONTACT",
+    "label": "Technical Contact",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "EMERGENCY_CONTACT",
+    "label": "Emergency Contact",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SIGNATORY_NAME",
+    "label": "Client Signatory Name",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 57
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 47
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 65
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 167
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 65
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 71
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 67
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 73
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 68
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 67
+      }
+    ]
+  },
+  {
+    "field": "AUTHORITY_EVIDENCE",
+    "label": "Authority Evidence",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "AUTHORITY_DATE",
+    "label": "Authority Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_NAME",
+    "label": "Project Name",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 13
+      },
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 18
+      },
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 17
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 21
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "BUSINESS_OBJECTIVE",
+    "label": "Business Objective",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 13
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "SUCCESS_MEASURES",
+    "label": "Success Measures",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 13
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "AUDIENCE_AND_ACCESSIBILITY",
+    "label": "Audience And Accessibility",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "SERVICES_REQUESTED",
+    "label": "Services Requested",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "BUDGET_RANGE",
+    "label": "Budget Range",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "TARGET_DATE",
+    "label": "Target Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 15
+      },
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "DEADLINE_REASON",
+    "label": "Deadline Reason",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_SYSTEMS",
+    "label": "Current Systems",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 16
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "DOMAIN_OWNER",
+    "label": "Domain Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "REGISTRAR",
+    "label": "Registrar",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "DNS_PROVIDER",
+    "label": "Dns Provider",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "DOMAIN_RENEWAL_OWNER",
+    "label": "Domain Renewal Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATIONS",
+    "label": "Integrations",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "CONTENT_OWNER",
+    "label": "Content Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "CONTENT_DUE_DATE",
+    "label": "Content Due Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "CONTENT_RIGHTS_EVIDENCE",
+    "label": "Content Rights Evidence",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "DATA_SUMMARY",
+    "label": "Data Summary",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 20
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "REGULATED_USE_SUMMARY",
+    "label": "Regulated Use Summary",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "SPECIAL_REQUIREMENTS",
+    "label": "Special Requirements",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_EXPECTATIONS",
+    "label": "Service Expectations",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 23
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "BILLING_PREFERENCE",
+    "label": "Billing Preference",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "field": "TAX_EXEMPTION_REVIEW_STATUS",
+    "label": "Tax Exemption Review Status",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_REQUEST_PLAN",
+    "label": "Access Request Plan",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "OPEN_QUESTIONS",
+    "label": "Open Questions",
+    "uses": [
+      {
+        "file": "clients/CLIENT_INTAKE_TEMPLATE.md",
+        "line": 26
+      },
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 30
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "AUTHORIZED_APPROVERS",
+    "label": "Authorized Approvers",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_OWNER",
+    "label": "Backup Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 14
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      },
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "SERVICES_PURCHASED",
+    "label": "Services Purchased",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "LIFECYCLE_STAGE",
+    "label": "Lifecycle Stage",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "STAGE_DATE",
+    "label": "Stage Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 18
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "SETUP_FEE",
+    "label": "Setup Fee",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_FEE",
+    "label": "Monthly Fee",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "CURRENCY",
+    "label": "Currency",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 19
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 25
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "BILLING_CADENCE",
+    "label": "Billing Cadence",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_TERMS",
+    "label": "Payment Terms",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "DEPOSIT_AMOUNT",
+    "label": "Deposit Amount",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "DISPUTE_STATUS",
+    "label": "Dispute Status",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "EFFECTIVE_DATE",
+    "label": "Effective Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 21
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_START_DATE",
+    "label": "Recurring Start Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "INITIAL_TERM_END",
+    "label": "Initial Term End",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_DATE",
+    "label": "Renewal Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 22
+      },
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "NOTICE_DEADLINE",
+    "label": "Notice Deadline",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_MECHANISM",
+    "label": "Renewal Mechanism",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "EXECUTED_DOCUMENT_REGISTER",
+    "label": "Executed Document Register",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_TIER",
+    "label": "Support Tier",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_COVERAGE_HOURS",
+    "label": "Support Coverage Hours",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 24
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 29
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 15
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "SLA_EXHIBIT_REFERENCE",
+    "label": "Sla Exhibit Reference",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 24
+      },
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 85
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "INSURANCE_REQUIREMENTS",
+    "label": "Insurance Requirements",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 25
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 115
+      }
+    ]
+  },
+  {
+    "field": "DOMAIN_INVENTORY",
+    "label": "Domain Inventory",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 29
+      },
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_INVENTORY",
+    "label": "Hosting Inventory",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 30
+      },
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 10
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_PROCESSOR_RECORD",
+    "label": "Payment Processor Record",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_REGISTER",
+    "label": "Vendor Register",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATION_REGISTER",
+    "label": "Integration Register",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "VAULT_REFERENCE",
+    "label": "Vault Reference",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 34
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "DATA_CLASSIFICATION",
+    "label": "Data Classification",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "COMPLIANCE_CONCERNS",
+    "label": "Compliance Concerns",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "DATA_LOCATIONS",
+    "label": "Data Locations",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "RETENTION_SCHEDULE",
+    "label": "Retention Schedule",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "RECOVERY_EVIDENCE",
+    "label": "Recovery Evidence",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 36
+      },
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_STATUS",
+    "label": "Current Status",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 40
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_DELIVERABLE",
+    "label": "Current Deliverable",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 40
+      }
+    ]
+  },
+  {
+    "field": "NEXT_ACTION",
+    "label": "Next Action",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 40
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 16
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "NEXT_OWNER",
+    "label": "Next Owner",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 40
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 16
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "NEXT_DUE",
+    "label": "Next Due",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 40
+      },
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 16
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "OPEN_ISSUES",
+    "label": "Open Issues",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 41
+      },
+      {
+        "file": "projects/PROJECT_CLOSEOUT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "HEALTH_REVIEW",
+    "label": "Health Review",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 42
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_OPPORTUNITIES",
+    "label": "Renewal Opportunities",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 42
+      }
+    ]
+  },
+  {
+    "field": "OFFBOARDING_STATUS",
+    "label": "Offboarding Status",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 43
+      }
+    ]
+  },
+  {
+    "field": "TERMINATION_DATE",
+    "label": "Termination Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 43
+      },
+      {
+        "file": "clients/OFFBOARDING_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "hosting/HOSTING_OFFBOARDING.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "TRANSFER_RECEIPT",
+    "label": "Transfer Receipt",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 43
+      }
+    ]
+  },
+  {
+    "field": "DELETION_PLAN",
+    "label": "Deletion Plan",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 43
+      }
+    ]
+  },
+  {
+    "field": "LAST_VERIFIED_DATE",
+    "label": "Last Verified Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 44
+      },
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "NEXT_REVIEW_DATE",
+    "label": "Next Review Date",
+    "uses": [
+      {
+        "file": "clients/CLIENT_RECORD_TEMPLATE.md",
+        "line": 44
+      },
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      },
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 52
+      }
+    ]
+  },
+  {
+    "field": "OFFBOARDING_SIGNOFF",
+    "label": "Offboarding Signoff",
+    "uses": [
+      {
+        "file": "clients/OFFBOARDING_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "KICKOFF_APPROVAL",
+    "label": "Kickoff Approval",
+    "uses": [
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "field": "ONBOARDING_SIGNOFF",
+    "label": "Onboarding Signoff",
+    "uses": [
+      {
+        "file": "clients/ONBOARDING_CHECKLIST.md",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "field": "COMPLIANCE_CALENDAR_OWNER",
+    "label": "Compliance Calendar Owner",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 3
+      },
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_CALENDAR_LOCATION",
+    "label": "Private Calendar Location",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "PAYROLL_OWNER",
+    "label": "Payroll Owner",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 16
+      },
+      {
+        "file": "employees/PAYROLL_SETUP_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "OPERATIONS_OWNER",
+    "label": "Operations Owner",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "COMPLIANCE_OWNER",
+    "label": "Compliance Owner",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 18
+      },
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 3
+      },
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 3
+      },
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "OWNER_NAME",
+    "label": "Owner Name",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 19
+      },
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "HR_OWNER",
+    "label": "Hr Owner",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 21
+      },
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "DFI_ANNUAL_REPORT_DUE_DATE",
+    "label": "Dfi Annual Report Due Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "FOREIGN_ENTITY_REPORT_DUE_DATE",
+    "label": "Foreign Entity Report Due Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "field": "WI_UI_DUE_DATES",
+    "label": "Wi Ui Due Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "FEDERAL_PAYROLL_RETURN_DATES",
+    "label": "Federal Payroll Return Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "field": "FEDERAL_DEPOSIT_SCHEDULE",
+    "label": "Federal Deposit Schedule",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "WI_WITHHOLDING_SCHEDULE",
+    "label": "Wi Withholding Schedule",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "WI_WT7_DUE_DATE",
+    "label": "Wi Wt7 Due Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "W2_FILING_AND_FURNISHING_DATES",
+    "label": "W2 Filing And Furnishing Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 34
+      }
+    ]
+  },
+  {
+    "field": "OTHER_PAYROLL_INFORMATION_RETURN_DATES",
+    "label": "Other Payroll Information Return Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "ENTITY_RETURN_DATES",
+    "label": "Entity Return Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "ESTIMATED_PAYMENT_DATES",
+    "label": "Estimated Payment Dates",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "SALES_USE_TAX_SCHEDULE",
+    "label": "Sales Use Tax Schedule",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "BOI_REVIEW_DATE",
+    "label": "Boi Review Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 38
+      }
+    ]
+  },
+  {
+    "field": "REPORTING_PERIOD",
+    "label": "Reporting Period",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      },
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 5
+      },
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "FILING_NAME",
+    "label": "Filing Name",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "DUE_DATE",
+    "label": "Due Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "PREPARER",
+    "label": "Preparer",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "REVIEWER",
+    "label": "Reviewer",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      },
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "SUBMISSION_DATE",
+    "label": "Submission Date",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_ACCEPTANCE_REFERENCE",
+    "label": "Private Acceptance Reference",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_APPROVAL_REFERENCE",
+    "label": "Payment Approval Reference",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "RECONCILIATION_REFERENCE",
+    "label": "Reconciliation Reference",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "OPEN_EXCEPTIONS",
+    "label": "Open Exceptions",
+    "uses": [
+      {
+        "file": "compliance/ANNUAL_COMPLIANCE_CALENDAR.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_COMPLIANCE_RECORD_LOCATION",
+    "label": "Private Compliance Record Location",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 18
+      },
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "JURISDICTION",
+    "label": "Jurisdiction",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "ACTIVITY_DESCRIPTION",
+    "label": "Activity Description",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "FIRST_ACTIVITY_DATE",
+    "label": "First Activity Date",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "PHYSICAL_PRESENCE_FACTS",
+    "label": "Physical Presence Facts",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 24
+      }
+    ]
+  },
+  {
+    "field": "STATE_SALES_SUMMARY",
+    "label": "State Sales Summary",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "COUNSEL_QUALIFICATION_DECISION",
+    "label": "Counsel Qualification Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "CPA_SALES_TAX_DECISION",
+    "label": "Cpa Sales Tax Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "CPA_OTHER_TAX_DECISION",
+    "label": "Cpa Other Tax Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "field": "PAYROLL_JURISDICTION_DECISION",
+    "label": "Payroll Jurisdiction Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "COUNSEL_EMPLOYMENT_DECISION",
+    "label": "Counsel Employment Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "field": "INSURER_COVERAGE_DECISION",
+    "label": "Insurer Coverage Decision",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "OFFICIAL_STATE_SOURCE_URLS",
+    "label": "Official State Source Urls",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "VERIFIED_DATE",
+    "label": "Verified Date",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "ACTION_OWNER",
+    "label": "Action Owner",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "DUE_DATES",
+    "label": "Due Dates",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "OPEN_CONDITIONS",
+    "label": "Open Conditions",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "OWNER_APPROVAL_REFERENCE",
+    "label": "Owner Approval Reference",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 34
+      },
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "NEXT_STATE_REVIEW_DATE",
+    "label": "Next State Review Date",
+    "uses": [
+      {
+        "file": "compliance/MULTISTATE_TRIGGER_CHECKLIST.md",
+        "line": 50
+      }
+    ]
+  },
+  {
+    "field": "SOURCE_URL",
+    "label": "Source Url",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "DATE_VERIFIED",
+    "label": "Date Verified",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "SOURCE_RULE_OR_PRICE",
+    "label": "Source Rule Or Price",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "FACTS_REQUIRING_REVIEW",
+    "label": "Facts Requiring Review",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "PROFESSIONAL_REVIEW_REFERENCE",
+    "label": "Professional Review Reference",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "DOCUMENTS_CHANGED",
+    "label": "Documents Changed",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "field": "REVIEW_OWNER",
+    "label": "Review Owner",
+    "uses": [
+      {
+        "file": "compliance/OFFICIAL_SOURCE_REGISTER.md",
+        "line": 75
+      },
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CPA_CONTACT",
+    "label": "Cpa Contact",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 3
+      },
+      {
+        "file": "employees/PAYROLL_SETUP_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "COUNSEL_CONTACT",
+    "label": "Counsel Contact",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 3
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "INSURANCE_CONTACT",
+    "label": "Insurance Contact",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 3
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_LEGAL_NAME",
+    "label": "Provider Legal Name",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 7
+      },
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 48
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 38
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 56
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 158
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 56
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 62
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 58
+      },
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 50
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 64
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 58
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_ENTITY_TYPE",
+    "label": "Provider Entity Type",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 7
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "FORMATION_JURISDICTION",
+    "label": "Formation Jurisdiction",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "FORMATION_DATE",
+    "label": "Formation Date",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "TAX_CLASSIFICATION",
+    "label": "Tax Classification",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "BUSINESS_LOCATION",
+    "label": "Business Location",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_SKU",
+    "label": "Service Sku",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "DELIVERABLE_DESCRIPTION",
+    "label": "Deliverable Description",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 46
+      }
+    ]
+  },
+  {
+    "field": "SOFTWARE_RIGHTS_AND_DELIVERY_METHOD",
+    "label": "Software Rights And Delivery Method",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "CUSTOMER_USE_JURISDICTIONS",
+    "label": "Customer Use Jurisdictions",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 48
+      }
+    ]
+  },
+  {
+    "field": "BUNDLE_AND_LINE_ITEM_ANALYSIS",
+    "label": "Bundle And Line Item Analysis",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "TAX_REVIEW_REFERENCE",
+    "label": "Tax Review Reference",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 50
+      }
+    ]
+  },
+  {
+    "field": "TAX_CONFIGURATION_DECISION",
+    "label": "Tax Configuration Decision",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 51
+      }
+    ]
+  },
+  {
+    "field": "TAX_DECISION_DATE",
+    "label": "Tax Decision Date",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 52
+      }
+    ]
+  },
+  {
+    "field": "RETENTION_SCHEDULE_REFERENCE",
+    "label": "Retention Schedule Reference",
+    "uses": [
+      {
+        "file": "compliance/WISCONSIN_REQUIREMENTS.md",
+        "line": 61
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_OWNER",
+    "label": "Access Owner",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "EMPLOYEE_ID",
+    "label": "Employee Id",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 3
+      },
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "SEPARATION_DATE_TIME_AND_ZONE",
+    "label": "Separation Date Time And Zone",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_EMPLOYEE_RECORD_LOCATION",
+    "label": "Private Employee Record Location",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 3
+      },
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "OFFBOARDING_COMPLETE_DATE",
+    "label": "Offboarding Complete Date",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "OPEN_ITEMS_OWNER",
+    "label": "Open Items Owner",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "FINAL_PAY_CONFIRMATION_REFERENCE",
+    "label": "Final Pay Confirmation Reference",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_REVOCATION_REFERENCE",
+    "label": "Access Revocation Reference",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_OFFBOARDING.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "START_DATE",
+    "label": "Start Date",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "CLASSIFICATION_REVIEW_REFERENCE",
+    "label": "Classification Review Reference",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 8
+      },
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "I9_REVIEWER",
+    "label": "I9 Reviewer",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "FIRST_WEEK_CONTACT",
+    "label": "First Week Contact",
+    "uses": [
+      {
+        "file": "employees/EMPLOYEE_ONBOARDING.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "DEVICE_RECORD_REFERENCE",
+    "label": "Device Record Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "DEVICE_CONDITION",
+    "label": "Device Condition",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "APPROVER",
+    "label": "Approver",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 14
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 15
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 16
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 17
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 18
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 19
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 20
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "ASSET_DATE",
+    "label": "Asset Date",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "RETURN_REFERENCE",
+    "label": "Return Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "IDENTITY_REFERENCE",
+    "label": "Identity Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "IDENTITY_ROLE",
+    "label": "Identity Role",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_DATE",
+    "label": "Access Date",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 15
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 16
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 17
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 18
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 19
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 20
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "REVOKE_REFERENCE",
+    "label": "Revoke Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 15
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 16
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 17
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 18
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 19
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 20
+      },
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "VAULT_COLLECTION_SCOPE",
+    "label": "Vault Collection Scope",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "REPOSITORY_ACCESS_REFERENCE",
+    "label": "Repository Access Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "REPOSITORY_ROLE",
+    "label": "Repository Role",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "INFRASTRUCTURE_REFERENCE",
+    "label": "Infrastructure Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "INFRASTRUCTURE_ROLE",
+    "label": "Infrastructure Role",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "BUSINESS_APP_REFERENCE",
+    "label": "Business App Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "BUSINESS_APP_ROLE",
+    "label": "Business App Role",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "FINANCE_ACCESS_REFERENCE",
+    "label": "Finance Access Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "FINANCE_ROLE_OR_NONE",
+    "label": "Finance Role Or None",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_ACCESS_REFERENCE",
+    "label": "Client Access Reference",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SCOPE",
+    "label": "Client Scope",
+    "uses": [
+      {
+        "file": "employees/EQUIPMENT_ACCESS_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "FIRST_PAY_DATE",
+    "label": "First Pay Date",
+    "uses": [
+      {
+        "file": "employees/PAYROLL_SETUP_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_PAYROLL_RECORD_LOCATION",
+    "label": "Private Payroll Record Location",
+    "uses": [
+      {
+        "file": "employees/PAYROLL_SETUP_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "WORKWEEK_START",
+    "label": "Workweek Start",
+    "uses": [
+      {
+        "file": "employees/PAYROLL_SETUP_CHECKLIST.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "ROLE_TITLE",
+    "label": "Role Title",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "MANAGER_ROLE",
+    "label": "Manager Role",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 6
+      }
+    ]
+  },
+  {
+    "field": "WORK_LOCATIONS",
+    "label": "Work Locations",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "WORK_SCHEDULE",
+    "label": "Work Schedule",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "EMPLOYMENT_TYPE",
+    "label": "Employment Type",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "ROLE_PURPOSE",
+    "label": "Role Purpose",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PAY_RANGE_AND_BASIS",
+    "label": "Pay Range And Basis",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "PAY_FREQUENCY",
+    "label": "Pay Frequency",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 10
+      },
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "RESPONSIBILITY_ONE",
+    "label": "Responsibility One",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "RESULT_ONE",
+    "label": "Result One",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "MEASURE_ONE",
+    "label": "Measure One",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "RESPONSIBILITY_TWO",
+    "label": "Responsibility Two",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "RESULT_TWO",
+    "label": "Result Two",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "MEASURE_TWO",
+    "label": "Measure Two",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "RESPONSIBILITY_THREE",
+    "label": "Responsibility Three",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "RESULT_THREE",
+    "label": "Result Three",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "MEASURE_THREE",
+    "label": "Measure Three",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "ROLE_DECISION_AUTHORITY",
+    "label": "Role Decision Authority",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "OWNER_APPROVAL_SCOPE",
+    "label": "Owner Approval Scope",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "COMMERCIAL_AUTHORITY",
+    "label": "Commercial Authority",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "APPROVED_ACCESS_SCOPE",
+    "label": "Approved Access Scope",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_ROLE",
+    "label": "Backup Role",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "REQUIRED_TRAINING",
+    "label": "Required Training",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 30
+      }
+    ]
+  },
+  {
+    "field": "FIRST_MONTH_OUTCOMES",
+    "label": "First Month Outcomes",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "ROLE_REVIEW_DATE",
+    "label": "Role Review Date",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "ROLE_VERSION",
+    "label": "Role Version",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "ROLE_EFFECTIVE_DATE",
+    "label": "Role Effective Date",
+    "uses": [
+      {
+        "file": "employees/ROLE_TEMPLATE.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "WORK_STATES",
+    "label": "Work States",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "PLAN_EFFECTIVE_DATE",
+    "label": "Plan Effective Date",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "PLAN_END_DATE",
+    "label": "Plan End Date",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "PLAN_VERSION",
+    "label": "Plan Version",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "BASE_PAY_AND_BASIS",
+    "label": "Base Pay And Basis",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "WAGE_AND_OVERTIME_REVIEW_REFERENCE",
+    "label": "Wage And Overtime Review Reference",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "ELIGIBLE_SALES_SCOPE",
+    "label": "Eligible Sales Scope",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "SALES_ATTRIBUTION_RULES",
+    "label": "Sales Attribution Rules",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "COMMISSION_BASE_DEFINITION",
+    "label": "Commission Base Definition",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "COMMISSION_RATE_SCHEDULE",
+    "label": "Commission Rate Schedule",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "COMMISSION_EARNING_EVENT",
+    "label": "Commission Earning Event",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "COMMISSION_CALCULATION_AND_PAYMENT_TIMING",
+    "label": "Commission Calculation And Payment Timing",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_AND_RECURRING_RULES",
+    "label": "Renewal And Recurring Rules",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "COUNSEL_REVIEWED_ADJUSTMENT_RULES",
+    "label": "Counsel Reviewed Adjustment Rules",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "COUNSEL_REVIEWED_SEPARATION_RULES",
+    "label": "Counsel Reviewed Separation Rules",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "DRAW_TERMS_OR_NONE",
+    "label": "Draw Terms Or None",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "COMPENSATION_REVIEW_CONTACT",
+    "label": "Compensation Review Contact",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "DEAL_REFERENCE",
+    "label": "Deal Reference",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "ELIGIBLE_COMMISSION_BASE",
+    "label": "Eligible Commission Base",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "COMMISSION_RATE",
+    "label": "Commission Rate",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "SALES_CREDIT_SHARE",
+    "label": "Sales Credit Share",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "EARNING_EVENT_REFERENCE",
+    "label": "Earning Event Reference",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 34
+      }
+    ]
+  },
+  {
+    "field": "CALCULATED_COMMISSION",
+    "label": "Calculated Commission",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "PAYROLL_ADJUSTMENTS",
+    "label": "Payroll Adjustments",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "STATEMENT_DATE",
+    "label": "Statement Date",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "PAY_DATE",
+    "label": "Pay Date",
+    "uses": [
+      {
+        "file": "employees/SALES_COMP_PLAN_TEMPLATE.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "TRAINER",
+    "label": "Trainer",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_TRAINING_RECORD_LOCATION",
+    "label": "Private Training Record Location",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 3
+      }
+    ]
+  },
+  {
+    "field": "TRAINING_TOPIC",
+    "label": "Training Topic",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "POLICY_VERSION",
+    "label": "Policy Version",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "COMPLETION_DATE",
+    "label": "Completion Date",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "DEMONSTRATION_RESULT",
+    "label": "Demonstration Result",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "FOLLOW_UP_ACTION",
+    "label": "Follow Up Action",
+    "uses": [
+      {
+        "file": "employees/TRAINING_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "BOOKKEEPER",
+    "label": "Bookkeeper",
+    "uses": [
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "REVIEW_DATE",
+    "label": "Review Date",
+    "uses": [
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      },
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 5
+      },
+      {
+        "file": "security/NEW_PROJECT_SECURITY_REVIEW.md",
+        "line": 5
+      },
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "FINANCE_ACTIONS",
+    "label": "Finance Actions",
+    "uses": [
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "OPEN_RECONCILIATIONS",
+    "label": "Open Reconciliations",
+    "uses": [
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "CLOSE_SIGNOFF",
+    "label": "Close Signoff",
+    "uses": [
+      {
+        "file": "finance/MONTHLY_FINANCIAL_REVIEW.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_ID",
+    "label": "Service Id",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 5
+      },
+      {
+        "file": "hosting/HOSTING_OFFBOARDING.md",
+        "line": 5
+      },
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_OWNER",
+    "label": "Service Owner",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 5
+      },
+      {
+        "file": "hosting/HOSTING_OFFBOARDING.md",
+        "line": 5
+      },
+      {
+        "file": "hosting/HOSTING_ONBOARDING.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_AGREEMENTS",
+    "label": "Hosting Agreements",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "DNS_RECORD",
+    "label": "Dns Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "ENVIRONMENT_RECORD",
+    "label": "Environment Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TLS_RECORD",
+    "label": "Tls Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_INVENTORY",
+    "label": "Access Inventory",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 13
+      },
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_RECORD",
+    "label": "Backup Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "RECOVERY_OBJECTIVES",
+    "label": "Recovery Objectives",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "RESTORE_TEST_RECORD",
+    "label": "Restore Test Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "MONITORING_RECORD",
+    "label": "Monitoring Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "MAINTENANCE_RECORD",
+    "label": "Maintenance Record",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_ENTITLEMENT",
+    "label": "Support Entitlement",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_ECONOMICS",
+    "label": "Hosting Economics",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "OPERATING_RISKS",
+    "label": "Operating Risks",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_EXIT_PLAN",
+    "label": "Hosting Exit Plan",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_CLIENT_RECORD.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_APPROVER",
+    "label": "Client Approver",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_ONBOARDING.md",
+        "line": 21
+      },
+      {
+        "file": "projects/ACCEPTANCE_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_START_DATE",
+    "label": "Service Start Date",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_ONBOARDING.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_READINESS_EVIDENCE",
+    "label": "Hosting Readiness Evidence",
+    "uses": [
+      {
+        "file": "hosting/HOSTING_ONBOARDING.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "INCIDENT_ID",
+    "label": "Incident Id",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "INCIDENT_LEAD",
+    "label": "Incident Lead",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "AFFECTED_SERVICES",
+    "label": "Affected Services",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      },
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "TIMELINE",
+    "label": "Timeline",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_UPDATES",
+    "label": "Client Updates",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "CORRECTIVE_ACTIONS",
+    "label": "Corrective Actions",
+    "uses": [
+      {
+        "file": "hosting/INCIDENT_RESPONSE.md",
+        "line": 17
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      },
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_END_DATE",
+    "label": "Service End Date",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 13
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_SERVICE_START_EVENT",
+    "label": "Recurring Service Start Event",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      },
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 23
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_CANCELLATION_NOTICE_DAYS",
+    "label": "Monthly Cancellation Notice Days",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "CANCELLATION_METHOD",
+    "label": "Cancellation Method",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      },
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_END_DATE_RULE",
+    "label": "Monthly End Date Rule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_PRORATION_RULE",
+    "label": "Monthly Proration Rule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_PRICE_CHANGE_PROCESS",
+    "label": "Renewal Price Change Process",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "NONRENEWAL_DEADLINE_RULE",
+    "label": "Nonrenewal Deadline Rule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_PERIOD",
+    "label": "Renewal Period",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_PRICE_TERMS",
+    "label": "Renewal Price Terms",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_NOTICE_PROCESS",
+    "label": "Renewal Notice Process",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "REVIEW_ESCALATION_DAYS",
+    "label": "Review Escalation Days",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "SUBSCRIPTION_PRODUCTS",
+    "label": "Subscription Products",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 45
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "PRODUCT_LICENSE_ATTACHMENT",
+    "label": "Product License Attachment",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 45
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "EXIT_AND_RETENTION_SCHEDULE",
+    "label": "Exit And Retention Schedule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 45
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 51
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 133
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 55
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "APPROVED_PUBLICITY_MATERIALS",
+    "label": "Approved Publicity Materials",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "APPROVED_PUBLICITY_CHANNELS",
+    "label": "Approved Publicity Channels",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "PUBLICITY_START_DATE",
+    "label": "Publicity Start Date",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "PUBLICITY_REMOVAL_DAYS",
+    "label": "Publicity Removal Days",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "INCLUDED_EXIT_EXPORT",
+    "label": "Included Exit Export",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "ADDITIONAL_EXIT_WORK",
+    "label": "Additional Exit Work",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "EXIT_WORK_FEES",
+    "label": "Exit Work Fees",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "GENERAL_LIABILITY_CAP",
+    "label": "General Liability Cap",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "ELEVATED_LIABILITY_CAPS",
+    "label": "Elevated Liability Caps",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "UNCAPPED_CLAIM_CATEGORIES",
+    "label": "Uncapped Claim Categories",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "CLAIM_AGGREGATION_RULE",
+    "label": "Claim Aggregation Rule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 109
+      }
+    ]
+  },
+  {
+    "field": "DEFENSE_COST_CAP_TREATMENT",
+    "label": "Defense Cost Cap Treatment",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "OVERLAPPING_CAP_RULE",
+    "label": "Overlapping Cap Rule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "DAMAGES_EXCLUSION_EXCEPTIONS",
+    "label": "Damages Exclusion Exceptions",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 77
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 113
+      }
+    ]
+  },
+  {
+    "field": "SLA_CREDIT_FORMULA",
+    "label": "Sla Credit Formula",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 85
+      }
+    ]
+  },
+  {
+    "field": "SLA_CREDIT_CEILING",
+    "label": "Sla Credit Ceiling",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 85
+      }
+    ]
+  },
+  {
+    "field": "SLA_REPEATED_FAILURE_REMEDY",
+    "label": "Sla Repeated Failure Remedy",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 85
+      }
+    ]
+  },
+  {
+    "field": "SUBPROCESSOR_NOTICE_DAYS",
+    "label": "Subprocessor Notice Days",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 93
+      }
+    ]
+  },
+  {
+    "field": "SUBPROCESSOR_OBJECTION_DAYS",
+    "label": "Subprocessor Objection Days",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 93
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_EXPIRATION_SCHEDULE",
+    "label": "Backup Expiration Schedule",
+    "uses": [
+      {
+        "file": "legal/CLAUSE_LIBRARY.md",
+        "line": 101
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "SOW_ID",
+    "label": "Sow Id",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "MSA_DATE",
+    "label": "Msa Date",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "RELEASE_IDENTIFICATION",
+    "label": "Release Identification",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "REVIEW_LOCATION",
+    "label": "Review Location",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_CRITERIA",
+    "label": "Acceptance Criteria",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 31
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 41
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 37
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_EVIDENCE",
+    "label": "Acceptance Evidence",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_REVIEW_REPRESENTATIVE",
+    "label": "Client Review Representative",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_PUNCH_LIST",
+    "label": "Acceptance Punch List",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_DECISION",
+    "label": "Acceptance Decision",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_INVOICE_EFFECT",
+    "label": "Acceptance Invoice Effect",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_READINESS_EVIDENCE",
+    "label": "Launch Readiness Evidence",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_EXCEPTIONS",
+    "label": "Launch Exceptions",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_DECISION",
+    "label": "Launch Decision",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      },
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "AUTHORIZED_LAUNCH_ACTIONS",
+    "label": "Authorized Launch Actions",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_DESTINATION",
+    "label": "Launch Destination",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_WINDOW",
+    "label": "Launch Window",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      },
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_RELEASE_APPROVER",
+    "label": "Provider Release Approver",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_RELEASE_APPROVER",
+    "label": "Client Release Approver",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "ROLLBACK_PLAN",
+    "label": "Rollback Plan",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "POST_LAUNCH_CHECKS",
+    "label": "Post Launch Checks",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_SIGNATURE",
+    "label": "Provider Signature",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 39
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 57
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 159
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 57
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 63
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 51
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 65
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 60
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 59
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_SIGNATORY_NAME",
+    "label": "Provider Signatory Name",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 50
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 40
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 58
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 160
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 58
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 64
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 60
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 52
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 60
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_SIGNATORY_TITLE",
+    "label": "Provider Signatory Title",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 51
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 41
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 161
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 65
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 53
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 67
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 62
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 61
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_SIGNATURE_DATE",
+    "label": "Provider Signature Date",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 52
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 42
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 60
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 162
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 60
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 62
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 54
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 68
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 63
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 62
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SIGNATURE",
+    "label": "Client Signature",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 56
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 46
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 64
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 166
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 64
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 70
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 58
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 72
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 67
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 66
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SIGNATORY_TITLE",
+    "label": "Client Signatory Title",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 58
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 48
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 168
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 66
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 72
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 68
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 60
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 74
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 68
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SIGNATURE_DATE",
+    "label": "Client Signature Date",
+    "uses": [
+      {
+        "file": "legal/templates/ACCEPTANCE_LAUNCH_AUTHORIZATION.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 67
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 169
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 67
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 73
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 69
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 61
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 75
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 70
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 69
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_ORDER_ID",
+    "label": "Change Order Id",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_REASON",
+    "label": "Change Reason",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_REQUIREMENT",
+    "label": "Current Requirement",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CHANGED_REQUIREMENT",
+    "label": "Changed Requirement",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "REMOVED_SCOPE",
+    "label": "Removed Scope",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_DELIVERABLES",
+    "label": "Change Deliverables",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_DELIVERY_FORMAT",
+    "label": "Change Delivery Format",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_DEPENDENCIES",
+    "label": "Change Dependencies",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "ORIGINAL_AUTHORIZED_TOTAL",
+    "label": "Original Authorized Total",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "PRIOR_APPROVED_CHANGES_TOTAL",
+    "label": "Prior Approved Changes Total",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_FEE_DELTA",
+    "label": "Change Fee Delta",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "REVISED_AUTHORIZED_TOTAL",
+    "label": "Revised Authorized Total",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "ORIGINAL_RECURRING_FEE",
+    "label": "Original Recurring Fee",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "REVISED_RECURRING_FEE",
+    "label": "Revised Recurring Fee",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_FEE_CHANGE_DATE",
+    "label": "Recurring Fee Change Date",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_INVOICE_SCHEDULE",
+    "label": "Change Invoice Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "THIRD_PARTY_COST_AUTHORIZATION",
+    "label": "Third Party Cost Authorization",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 17
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 31
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "APPROVED_RATE_SCHEDULE",
+    "label": "Approved Rate Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 17
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 29
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 38
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_BUDGET_LIMIT",
+    "label": "Change Budget Limit",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "ORIGINAL_MILESTONE",
+    "label": "Original Milestone",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "REVISED_MILESTONES",
+    "label": "Revised Milestones",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_PAUSE_SCOPE",
+    "label": "Change Pause Scope",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "DOWNSTREAM_SCHEDULE_EFFECTS",
+    "label": "Downstream Schedule Effects",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_ACCEPTANCE_CRITERIA",
+    "label": "Change Acceptance Criteria",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_IP_ALLOCATION",
+    "label": "Change Ip Allocation",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "THIRD_PARTY_COMPONENTS",
+    "label": "Third Party Components",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 27
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 35
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_DATA_AND_SECURITY_IMPACT",
+    "label": "Change Data And Security Impact",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "CHANGE_OPERATIONAL_IMPACT",
+    "label": "Change Operational Impact",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_PLAN",
+    "label": "Launch Plan",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 29
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 45
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 33
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 39
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CHANGED_CONTRACT_SECTIONS",
+    "label": "Changed Contract Sections",
+    "uses": [
+      {
+        "file": "legal/templates/CHANGE_ORDER.md",
+        "line": 33
+      },
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 57
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_CAPACITY",
+    "label": "Hosting Capacity",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "HOSTING_VENDOR_AND_LOCATION",
+    "label": "Hosting Vendor And Location",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 9
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_HOSTING_RESPONSIBILITIES",
+    "label": "Provider Hosting Responsibilities",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_HOSTING_RESPONSIBILITIES",
+    "label": "Client Hosting Responsibilities",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DOMAIN_CONTROL_RECORD",
+    "label": "Domain Control Record",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "SECURE_ACCESS_METHOD",
+    "label": "Secure Access Method",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 17
+      },
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 33
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_SERVICE_SPECIFICATION",
+    "label": "Backup Service Specification",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "BACKUP_VERIFICATION_SCHEDULE",
+    "label": "Backup Verification Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "RESTORE_AUTHORIZATION_AND_FEES",
+    "label": "Restore Authorization And Fees",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "MONITORING_SPECIFICATION",
+    "label": "Monitoring Specification",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "MAINTENANCE_SPECIFICATION",
+    "label": "Maintenance Specification",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "OUTAGE_COMMUNICATION_PROCESS",
+    "label": "Outage Communication Process",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 33
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "CAPACITY_NOTICE_PROCESS",
+    "label": "Capacity Notice Process",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_CREDIT_TREATMENT",
+    "label": "Vendor Credit Treatment",
+    "uses": [
+      {
+        "file": "legal/templates/MANAGED_HOSTING_ADDENDUM.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_ADDRESS",
+    "label": "Provider Address",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_ENTITY_TYPE",
+    "label": "Client Entity Type",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "GOVERNING_STATE",
+    "label": "Governing State",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 5
+      },
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 145
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "INVOICE_DISPUTE_DAYS",
+    "label": "Invoice Dispute Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "LATE_CHARGE_TERMS",
+    "label": "Late Charge Terms",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "REFUND_AND_CREDIT_TIMING",
+    "label": "Refund And Credit Timing",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_REVIEW_DAYS",
+    "label": "Acceptance Review Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "ACCEPTANCE_CURE_PROCESS",
+    "label": "Acceptance Cure Process",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "CONFIDENTIALITY_YEARS",
+    "label": "Confidentiality Years",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 73
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "DATA_PROCESSING_SCHEDULE",
+    "label": "Data Processing Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 79
+      },
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 43
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 47
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "SUBPROCESSOR_CHANGE_PROCESS",
+    "label": "Subprocessor Change Process",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 83
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_SECURITY_CONTACT",
+    "label": "Client Security Contact",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 85
+      },
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "INCIDENT_NOTIFICATION_DEADLINE",
+    "label": "Incident Notification Deadline",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 85
+      }
+    ]
+  },
+  {
+    "field": "DATA_ASSISTANCE_AND_REVIEW_PROCESS",
+    "label": "Data Assistance And Review Process",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 87
+      }
+    ]
+  },
+  {
+    "field": "WARRANTY_PERIOD",
+    "label": "Warranty Period",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 91
+      }
+    ]
+  },
+  {
+    "field": "WARRANTY_CURE_PROCESS",
+    "label": "Warranty Cure Process",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 91
+      }
+    ]
+  },
+  {
+    "field": "WARRANTY_FAILURE_REMEDY",
+    "label": "Warranty Failure Remedy",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 93
+      }
+    ]
+  },
+  {
+    "field": "ADDITIONAL_INDEMNITY_CATEGORIES",
+    "label": "Additional Indemnity Categories",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 101
+      }
+    ]
+  },
+  {
+    "field": "IP_TERMINATION_REFUND_FORMULA",
+    "label": "Ip Termination Refund Formula",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 105
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_CURE_DAYS",
+    "label": "Payment Cure Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 119
+      }
+    ]
+  },
+  {
+    "field": "MSA_TERMINATION_NOTICE_DAYS",
+    "label": "Msa Termination Notice Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 125
+      }
+    ]
+  },
+  {
+    "field": "BREACH_CURE_DAYS",
+    "label": "Breach Cure Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 127
+      }
+    ]
+  },
+  {
+    "field": "CONVENIENCE_TERMINATION_TERMS",
+    "label": "Convenience Termination Terms",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 127
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 55
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 51
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_NOTICE_EMAIL",
+    "label": "Provider Notice Email",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 143
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_NOTICE_EMAIL",
+    "label": "Client Notice Email",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 143
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "DISPUTE_ESCALATION_DAYS",
+    "label": "Dispute Escalation Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 145
+      }
+    ]
+  },
+  {
+    "field": "VENUE_COUNTY_STATE",
+    "label": "Venue County State",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 145
+      },
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "FORCE_MAJEURE_TERMINATION_DAYS",
+    "label": "Force Majeure Termination Days",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 147
+      }
+    ]
+  },
+  {
+    "field": "PERMITTED_ASSIGNMENT_TERMS",
+    "label": "Permitted Assignment Terms",
+    "uses": [
+      {
+        "file": "legal/templates/MASTER_SERVICES_AGREEMENT.md",
+        "line": 149
+      }
+    ]
+  },
+  {
+    "field": "NDA_PURPOSE",
+    "label": "Nda Purpose",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "NDA_DISCUSSION_CONFIDENTIALITY",
+    "label": "Nda Discussion Confidentiality",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "NDA_PRIOR_DISCLOSURES",
+    "label": "Nda Prior Disclosures",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "NDA_DISCLOSURE_END_DATE",
+    "label": "Nda Disclosure End Date",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "NDA_RETURN_DAYS",
+    "label": "Nda Return Days",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "NDA_BACKUP_EXPIRATION",
+    "label": "Nda Backup Expiration",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "NDA_RISK_ALLOCATION",
+    "label": "Nda Risk Allocation",
+    "uses": [
+      {
+        "file": "legal/templates/MUTUAL_NDA.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "TERMINATING_SERVICES",
+    "label": "Terminating Services",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_TERMINATION_DATE_AND_TIME",
+    "label": "Service Termination Date And Time",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "TERMINATION_NOTICE_REFERENCE",
+    "label": "Termination Notice Reference",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "CONTINUING_SERVICES",
+    "label": "Continuing Services",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "AUTHORIZED_TRANSFER_RECIPIENTS",
+    "label": "Authorized Transfer Recipients",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TRANSITION_CONTACTS",
+    "label": "Transition Contacts",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TRANSFER_METHOD",
+    "label": "Transfer Method",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "EXIT_DELIVERABLES",
+    "label": "Exit Deliverables",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "TRANSFER_SCHEDULE",
+    "label": "Transfer Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "ACCOUNT_AND_DOMAIN_TRANSFER_PLAN",
+    "label": "Account And Domain Transfer Plan",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "NONPORTABLE_ITEMS",
+    "label": "Nonportable Items",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "FINAL_ACCOUNT_RECONCILIATION",
+    "label": "Final Account Reconciliation",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "FINAL_PAYMENT_AND_REFUND_DATES",
+    "label": "Final Payment And Refund Dates",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_CANCELLATION_PLAN",
+    "label": "Vendor Cancellation Plan",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_REVOCATION_PLAN",
+    "label": "Access Revocation Plan",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "EXPORT_WINDOW_END",
+    "label": "Export Window End",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "PRODUCTION_DELETION_DATE",
+    "label": "Production Deletion Date",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "RETAINED_RECORD_EXCEPTIONS",
+    "label": "Retained Record Exceptions",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "DELETION_CONFIRMATION_METHOD",
+    "label": "Deletion Confirmation Method",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "TRANSFER_CHECKLIST_RECORD",
+    "label": "Transfer Checklist Record",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "TRANSFER_COMPLETION_ACKNOWLEDGMENT",
+    "label": "Transfer Completion Acknowledgment",
+    "uses": [
+      {
+        "file": "legal/templates/OFFBOARDING_AGREEMENT_TRANSFER_CHECKLIST.md",
+        "line": 57
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_INTEGRATION_SCOPE",
+    "label": "Payment Integration Scope",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_PROCESSOR",
+    "label": "Payment Processor",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "MERCHANT_OF_RECORD",
+    "label": "Merchant Of Record",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "ACQUIRER_OR_COMPLIANCE_CONTACT",
+    "label": "Acquirer Or Compliance Contact",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_DATA_FLOW",
+    "label": "Payment Data Flow",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_METADATA_ALLOWLIST",
+    "label": "Payment Metadata Allowlist",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "PCI_RESPONSIBILITY_MATRIX",
+    "label": "Pci Responsibility Matrix",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_CONTROL_SPECIFICATION",
+    "label": "Payment Control Specification",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_ACTION_AUTHORITY",
+    "label": "Payment Action Authority",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "BILLING_AND_CONSENT_SPECIFICATION",
+    "label": "Billing And Consent Specification",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 37
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_TEST_PLAN",
+    "label": "Payment Test Plan",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_LAUNCH_APPROVERS",
+    "label": "Payment Launch Approvers",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_RECONCILIATION_PROCESS",
+    "label": "Payment Reconciliation Process",
+    "uses": [
+      {
+        "file": "legal/templates/PAYMENT_INTEGRATION_ADDENDUM.md",
+        "line": 51
+      }
+    ]
+  },
+  {
+    "field": "DATA_BUSINESS_CONTEXT",
+    "label": "Data Business Context",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "DATA_ROLE_ASSESSMENT",
+    "label": "Data Role Assessment",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_PRIVACY_AND_SECURITY_CONTACTS",
+    "label": "Client Privacy And Security Contacts",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_PRIVACY_AND_SECURITY_CONTACTS",
+    "label": "Provider Privacy And Security Contacts",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "DATA_INVENTORY",
+    "label": "Data Inventory",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "RESTRICTED_DATA_SCREENING",
+    "label": "Restricted Data Screening",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "DATA_LOCATION_MAP",
+    "label": "Data Location Map",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "DATA_REQUIREMENT_REGISTER",
+    "label": "Data Requirement Register",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "REQUIRED_DATA_AGREEMENTS",
+    "label": "Required Data Agreements",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "field": "NOTICE_AND_CONSENT_RESPONSIBILITIES",
+    "label": "Notice And Consent Responsibilities",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "THIRD_PARTY_DATA_AUTHORITY",
+    "label": "Third Party Data Authority",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 41
+      }
+    ]
+  },
+  {
+    "field": "SUBPROCESSOR_REGISTER",
+    "label": "Subprocessor Register",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "AI_DATA_USE_ASSESSMENT",
+    "label": "Ai Data Use Assessment",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_CONTROL_ASSESSMENT",
+    "label": "Security Control Assessment",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 51
+      }
+    ]
+  },
+  {
+    "field": "ASSURANCE_REQUIREMENTS",
+    "label": "Assurance Requirements",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_GAP_REGISTER",
+    "label": "Security Gap Register",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "INCIDENT_NOTIFICATION_ASSESSMENT",
+    "label": "Incident Notification Assessment",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 57
+      }
+    ]
+  },
+  {
+    "field": "DATA_REQUEST_WORKFLOW",
+    "label": "Data Request Workflow",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 57
+      }
+    ]
+  },
+  {
+    "field": "DATA_RETENTION_SCHEDULE",
+    "label": "Data Retention Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 59
+      }
+    ]
+  },
+  {
+    "field": "DATA_OPEN_ISSUES",
+    "label": "Data Open Issues",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 63
+      }
+    ]
+  },
+  {
+    "field": "DATA_READINESS_DECISION",
+    "label": "Data Readiness Decision",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 63
+      }
+    ]
+  },
+  {
+    "field": "DATA_READINESS_APPROVALS",
+    "label": "Data Readiness Approvals",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 63
+      }
+    ]
+  },
+  {
+    "field": "QUESTIONNAIRE_PREPARER_NAME",
+    "label": "Questionnaire Preparer Name",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 65
+      }
+    ]
+  },
+  {
+    "field": "QUESTIONNAIRE_PREPARER_ROLE",
+    "label": "Questionnaire Preparer Role",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 66
+      }
+    ]
+  },
+  {
+    "field": "QUESTIONNAIRE_PREPARED_DATE",
+    "label": "Questionnaire Prepared Date",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 67
+      }
+    ]
+  },
+  {
+    "field": "QUESTIONNAIRE_REVIEWER_NAME",
+    "label": "Questionnaire Reviewer Name",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 68
+      }
+    ]
+  },
+  {
+    "field": "QUESTIONNAIRE_REVIEW_DATE",
+    "label": "Questionnaire Review Date",
+    "uses": [
+      {
+        "file": "legal/templates/PRIVACY_DATA_QUESTIONNAIRE.md",
+        "line": 69
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATION_ARCHITECTURE",
+    "label": "Integration Architecture",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATION_SPECIFICATION",
+    "label": "Integration Specification",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DATA_MAPPING_AND_SYNC_RULES",
+    "label": "Data Mapping And Sync Rules",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_DEPENDENCIES",
+    "label": "Client Dependencies",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 17
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 15
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "API_DEPENDENCY_REGISTER",
+    "label": "Api Dependency Register",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATION_CONTROL_SPECIFICATION",
+    "label": "Integration Control Specification",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "INTEGRATION_TEST_PLAN",
+    "label": "Integration Test Plan",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "CONSEQUENTIAL_ACTION_CONTROLS",
+    "label": "Consequential Action Controls",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "HANDOVER_DELIVERABLES",
+    "label": "Handover Deliverables",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 37
+      },
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 37
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "SOFTWARE_MAINTENANCE_SCOPE",
+    "label": "Software Maintenance Scope",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 39
+      }
+    ]
+  },
+  {
+    "field": "END_OF_SUPPORT_NOTICE",
+    "label": "End Of Support Notice",
+    "uses": [
+      {
+        "file": "legal/templates/SOFTWARE_INTEGRATION_ADDENDUM.md",
+        "line": 39
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 54
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_DESCRIPTION",
+    "label": "Service Description",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_PURPOSE",
+    "label": "Project Purpose",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_BOUNDARIES",
+    "label": "Service Boundaries",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DELIVERABLE_SCHEDULE",
+    "label": "Deliverable Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 9
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "EXCLUDED_SERVICES",
+    "label": "Excluded Services",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 11
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_ASSUMPTIONS",
+    "label": "Project Assumptions",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_PROJECT_CONTACT",
+    "label": "Provider Project Contact",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_PROJECT_CONTACT",
+    "label": "Client Project Contact",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "COMMERCIAL_APPROVERS",
+    "label": "Commercial Approvers",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 15
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_COMMUNICATION_CHANNELS",
+    "label": "Project Communication Channels",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_DEPENDENCIES",
+    "label": "Provider Dependencies",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_START_DATE",
+    "label": "Project Start Date",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 21
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_MILESTONES",
+    "label": "Project Milestones",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 21
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "START_CONDITIONS",
+    "label": "Start Conditions",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 23
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "PRICING_BASIS",
+    "label": "Pricing Basis",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_FEES",
+    "label": "Project Fees",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "DEPOSIT_TERMS",
+    "label": "Deposit Terms",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "INVOICE_SCHEDULE",
+    "label": "Invoice Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_FEES",
+    "label": "Recurring Fees",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "LABOR_BUDGET_LIMIT",
+    "label": "Labor Budget Limit",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "USAGE_AND_OVERAGE_TERMS",
+    "label": "Usage And Overage Terms",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 31
+      }
+    ]
+  },
+  {
+    "field": "ASSIGNED_DELIVERABLES",
+    "label": "Assigned Deliverables",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 35
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "BACKGROUND_MATERIALS",
+    "label": "Background Materials",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 35
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 45
+      }
+    ]
+  },
+  {
+    "field": "DELIVERY_DESTINATION",
+    "label": "Delivery Destination",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 37
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "SUPPORTED_ENVIRONMENTS",
+    "label": "Supported Environments",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 41
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "PRIVACY_QUESTIONNAIRE_REFERENCE",
+    "label": "Privacy Questionnaire Reference",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 47
+      }
+    ]
+  },
+  {
+    "field": "INCORPORATED_ADDENDA",
+    "label": "Incorporated Addenda",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 47
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_SCOPE",
+    "label": "Support Scope",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_TERM",
+    "label": "Support Term",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 49
+      },
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 54
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_EXHIBIT_REFERENCE",
+    "label": "Support Exhibit Reference",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 49
+      }
+    ]
+  },
+  {
+    "field": "RENEWAL_TERMS",
+    "label": "Renewal Terms",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "MSA_SPECIFIC_AMENDMENTS",
+    "label": "Msa Specific Amendments",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "CONTRACT_ATTACHMENT_INDEX",
+    "label": "Contract Attachment Index",
+    "uses": [
+      {
+        "file": "legal/templates/STATEMENT_OF_WORK.md",
+        "line": 59
+      },
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_EXCLUSIONS",
+    "label": "Support Exclusions",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_ALLOWANCE",
+    "label": "Support Allowance",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "AUTHORIZED_SUPPORT_CONTACTS",
+    "label": "Authorized Support Contacts",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_INTAKE_CHANNEL",
+    "label": "Support Intake Channel",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_REPORTING_CHANNEL",
+    "label": "Security Reporting Channel",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "EMERGENCY_SUPPORT_CHANNEL",
+    "label": "Emergency Support Channel",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "AFTER_HOURS_COVERAGE",
+    "label": "After Hours Coverage",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RESPONSE_TARGET_SCHEDULE",
+    "label": "Response Target Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_ESCALATION_SCHEDULE",
+    "label": "Support Escalation Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 32
+      }
+    ]
+  },
+  {
+    "field": "PREAUTHORIZED_SUPPORT_ACTIONS",
+    "label": "Preauthorized Support Actions",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 36
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_OVERAGE_AUTHORIZATION",
+    "label": "Support Overage Authorization",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 38
+      }
+    ]
+  },
+  {
+    "field": "TICKET_INACTIVITY_PROCESS",
+    "label": "Ticket Inactivity Process",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 50
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_RECORD_RETENTION",
+    "label": "Support Record Retention",
+    "uses": [
+      {
+        "file": "legal/templates/SUPPORT_POLICY_EXHIBIT.md",
+        "line": 52
+      }
+    ]
+  },
+  {
+    "field": "WEBSITE_SPECIFICATION",
+    "label": "Website Specification",
+    "uses": [
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DESIGN_REVIEW_ALLOWANCE",
+    "label": "Design Review Allowance",
+    "uses": [
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DESIGN_APPROVAL_SCHEDULE",
+    "label": "Design Approval Schedule",
+    "uses": [
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "ACCESSIBILITY_SPECIFICATION",
+    "label": "Accessibility Specification",
+    "uses": [
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "TRACKING_AND_FORM_INVENTORY",
+    "label": "Tracking And Form Inventory",
+    "uses": [
+      {
+        "file": "legal/templates/WEBSITE_BUILD_AGREEMENT.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "TOP_DECISIONS",
+    "label": "Top Decisions",
+    "uses": [
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "APPROVALS_NEEDED",
+    "label": "Approvals Needed",
+    "uses": [
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_ACTIONS",
+    "label": "Monthly Actions",
+    "uses": [
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "UNRESOLVED_ACTIONS",
+    "label": "Unresolved Actions",
+    "uses": [
+      {
+        "file": "metrics/MONTHLY_BUSINESS_REVIEW.md",
+        "line": 26
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_ID",
+    "label": "Project Id",
+    "uses": [
+      {
+        "file": "projects/ACCEPTANCE_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "security/NEW_PROJECT_SECURITY_REVIEW.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "DELIVERABLE_VERSION",
+    "label": "Deliverable Version",
+    "uses": [
+      {
+        "file": "projects/ACCEPTANCE_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "TIMEZONE",
+    "label": "Timezone",
+    "uses": [
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_APPROVER",
+    "label": "Launch Approver",
+    "uses": [
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "DECISION_TIME",
+    "label": "Decision Time",
+    "uses": [
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "ROLLBACK_TRIGGER",
+    "label": "Rollback Trigger",
+    "uses": [
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "LAUNCH_EVIDENCE",
+    "label": "Launch Evidence",
+    "uses": [
+      {
+        "file": "projects/LAUNCH_CHECKLIST.md",
+        "line": 33
+      }
+    ]
+  },
+  {
+    "field": "CLOSEOUT_ID",
+    "label": "Closeout Id",
+    "uses": [
+      {
+        "file": "projects/PROJECT_CLOSEOUT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "DELIVERY_OWNER",
+    "label": "Delivery Owner",
+    "uses": [
+      {
+        "file": "projects/PROJECT_CLOSEOUT.md",
+        "line": 17
+      },
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 5
+      },
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 5
+      },
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "CLOSEOUT_DATE",
+    "label": "Closeout Date",
+    "uses": [
+      {
+        "file": "projects/PROJECT_CLOSEOUT.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "GO_NO_GO",
+    "label": "Go No Go",
+    "uses": [
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_APPROVER",
+    "label": "Project Approver",
+    "uses": [
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "APPROVAL_DATE",
+    "label": "Approval Date",
+    "uses": [
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROJECT_EXCEPTIONS",
+    "label": "Project Exceptions",
+    "uses": [
+      {
+        "file": "projects/PROJECT_INTAKE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "SCOPE",
+    "label": "Scope",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "EXCLUSIONS",
+    "label": "Exclusions",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 7
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "MILESTONE_ID",
+    "label": "Milestone Id",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "DELIVERABLE",
+    "label": "Deliverable",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TASK_OWNER",
+    "label": "Task Owner",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "DEPENDENCY",
+    "label": "Dependency",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TEST_EVIDENCE",
+    "label": "Test Evidence",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "HOURS_BUDGET",
+    "label": "Hours Budget",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "LABOR_RATE_BASIS",
+    "label": "Labor Rate Basis",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_BUDGET",
+    "label": "Vendor Budget",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "CONTINGENCY_BUDGET",
+    "label": "Contingency Budget",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "RISK_REGISTER",
+    "label": "Risk Register",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "TEST_PLAN",
+    "label": "Test Plan",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "REVIEW_PLAN",
+    "label": "Review Plan",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "HANDOVER_PLAN",
+    "label": "Handover Plan",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "COMPLETED_WORK",
+    "label": "Completed Work",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "NEXT_WORK",
+    "label": "Next Work",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "BUDGET_STATUS",
+    "label": "Budget Status",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "BLOCKERS",
+    "label": "Blockers",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "DECISIONS_DUE",
+    "label": "Decisions Due",
+    "uses": [
+      {
+        "file": "projects/PROJECT_PLAN_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "MEETING_DATE",
+    "label": "Meeting Date",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "LEAD_ID",
+    "label": "Lead Id",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 5
+      },
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "STAKEHOLDERS",
+    "label": "Stakeholders",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "SCOPE_NOTES",
+    "label": "Scope Notes",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PAYMENT_FLOW",
+    "label": "Payment Flow",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "DELIVERY_CONSTRAINTS",
+    "label": "Delivery Constraints",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "EXCLUSIONS_AND_RISKS",
+    "label": "Exclusions And Risks",
+    "uses": [
+      {
+        "file": "sales/DISCOVERY_CALL_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_CONTACT",
+    "label": "Client Contact",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 9
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 15
+      },
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "KEY_SCOPE_POINTS",
+    "label": "Key Scope Points",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_ID",
+    "label": "Quote Id",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 15
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_DECISION_NEEDED",
+    "label": "Client Decision Needed",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 17
+      },
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "KNOWN_OPEN_POINT",
+    "label": "Known Open Point",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_EXPIRY_DATE",
+    "label": "Quote Expiry Date",
+    "uses": [
+      {
+        "file": "sales/FOLLOW_UP_TEMPLATE.md",
+        "line": 17
+      },
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "LEAD_CONTACT",
+    "label": "Lead Contact",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "LEAD_SOURCE",
+    "label": "Lead Source",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "CONTACT_PERMISSION",
+    "label": "Contact Permission",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_NEED",
+    "label": "Client Need",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "QUALIFICATION_NOTES",
+    "label": "Qualification Notes",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "RISK_FLAGS",
+    "label": "Risk Flags",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "SALES_STAGE",
+    "label": "Sales Stage",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "OPPORTUNITY_VALUE_BASIS",
+    "label": "Opportunity Value Basis",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "LAST_CONTACT_DATE",
+    "label": "Last Contact Date",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "COMMITMENTS",
+    "label": "Commitments",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "SALES_DOCUMENTS",
+    "label": "Sales Documents",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "CLOSE_DATE",
+    "label": "Close Date",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "CLOSE_REASON",
+    "label": "Close Reason",
+    "uses": [
+      {
+        "file": "sales/LEAD_RECORD_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "PROPOSAL_DATE",
+    "label": "Proposal Date",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "PROPOSAL_VERSION",
+    "label": "Proposal Version",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_CONSTRAINT",
+    "label": "Current Constraint",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "RECOMMENDED_APPROACH",
+    "label": "Recommended Approach",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "DELIVERABLE_SUMMARY",
+    "label": "Deliverable Summary",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROPOSAL_ASSUMPTIONS",
+    "label": "Proposal Assumptions",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "MILESTONE_SUMMARY",
+    "label": "Milestone Summary",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_SERVICE_SUMMARY",
+    "label": "Recurring Service Summary",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "OPERATING_APPROACH",
+    "label": "Operating Approach",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "PROPOSAL_OPTIONS",
+    "label": "Proposal Options",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "PROPOSAL_REVIEW_DATE",
+    "label": "Proposal Review Date",
+    "uses": [
+      {
+        "file": "sales/PROPOSAL_TEMPLATE.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_VERSION",
+    "label": "Quote Version",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_DATE",
+    "label": "Quote Date",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_LINE_DESCRIPTION",
+    "label": "Quote Line Description",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "QUANTITY",
+    "label": "Quantity",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "UNIT_PRICE",
+    "label": "Unit Price",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "LINE_AMOUNT",
+    "label": "Line Amount",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "TAX_REVIEW_STATUS",
+    "label": "Tax Review Status",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "SUBTOTAL",
+    "label": "Subtotal",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "DISCOUNT_AMOUNT",
+    "label": "Discount Amount",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "TAX_AMOUNT",
+    "label": "Tax Amount",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "TOTAL_AMOUNT",
+    "label": "Total Amount",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "SETUP_PAYMENT_SCHEDULE",
+    "label": "Setup Payment Schedule",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RECURRING_PRICE_AND_TERM",
+    "label": "Recurring Price And Term",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "CLIENT_PAID_VENDOR_ESTIMATE",
+    "label": "Client Paid Vendor Estimate",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "PROVIDER_PAID_ALLOWANCES",
+    "label": "Provider Paid Allowances",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_AND_EXCLUSIONS",
+    "label": "Support And Exclusions",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_ASSUMPTIONS",
+    "label": "Quote Assumptions",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "AGREEMENT_REFERENCE",
+    "label": "Agreement Reference",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 21
+      }
+    ]
+  },
+  {
+    "field": "COST_MODEL_REFERENCE",
+    "label": "Cost Model Reference",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "ECONOMICS_APPROVAL",
+    "label": "Economics Approval",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_APPROVER",
+    "label": "Quote Approver",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "QUOTE_APPROVAL_DATE",
+    "label": "Quote Approval Date",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "SELECTED_OPTION",
+    "label": "Selected Option",
+    "uses": [
+      {
+        "file": "sales/QUOTE_TEMPLATE.md",
+        "line": 25
+      }
+    ]
+  },
+  {
+    "field": "SALES_OWNER",
+    "label": "Sales Owner",
+    "uses": [
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "HANDOFF_DATE",
+    "label": "Handoff Date",
+    "uses": [
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "HANDOFF_EXCEPTIONS",
+    "label": "Handoff Exceptions",
+    "uses": [
+      {
+        "file": "sales/SALES_HANDOFF_CHECKLIST.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_INCIDENT_CONTACT",
+    "label": "Vendor Incident Contact",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "DISCOVERED_AT",
+    "label": "Discovered At",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "FACTS_AND_UNCERTAINTIES",
+    "label": "Facts And Uncertainties",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "AFFECTED_DATA",
+    "label": "Affected Data",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "EVIDENCE_REGISTER",
+    "label": "Evidence Register",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "CONTAINMENT_APPROVALS",
+    "label": "Containment Approvals",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "NOTICE_DECISIONS",
+    "label": "Notice Decisions",
+    "uses": [
+      {
+        "file": "security/INCIDENT_RESPONSE.md",
+        "line": 27
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_REVIEWER",
+    "label": "Security Reviewer",
+    "uses": [
+      {
+        "file": "security/NEW_PROJECT_SECURITY_REVIEW.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_GO_NO_GO",
+    "label": "Security Go No Go",
+    "uses": [
+      {
+        "file": "security/NEW_PROJECT_SECURITY_REVIEW.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "OFFBOARDING_ID",
+    "label": "Offboarding Id",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "SUBJECT_ID",
+    "label": "Subject Id",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "REVOCATION_TIME",
+    "label": "Revocation Time",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_REVIEWER",
+    "label": "Access Reviewer",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "REVOCATION_COMPLETED_AT",
+    "label": "Revocation Completed At",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "ACCESS_EXCEPTIONS",
+    "label": "Access Exceptions",
+    "uses": [
+      {
+        "file": "security/OFFBOARDING_ACCESS_REVOCATION.md",
+        "line": 20
+      }
+    ]
+  },
+  {
+    "field": "SERVICE_NAME",
+    "label": "Service Name",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "OBSERVED_ISSUE",
+    "label": "Observed Issue",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "KNOWN_IMPACT",
+    "label": "Known Impact",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "START_TIME_WITH_TIMEZONE",
+    "label": "Start Time With Timezone",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "AVAILABLE_WORKAROUND",
+    "label": "Available Workaround",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "NEXT_UPDATE_TIME",
+    "label": "Next Update Time",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 15
+      },
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_CHANNEL",
+    "label": "Support Channel",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 11
+      },
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "VERIFIED_FACTS",
+    "label": "Verified Facts",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "ACTIONS_COMPLETED",
+    "label": "Actions Completed",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "NEXT_STEP",
+    "label": "Next Step",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RESTORATION_ESTIMATE_WITH_BASIS_OR_NO_ESTIMATE",
+    "label": "Restoration Estimate With Basis Or No Estimate",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RECOVERY_TIME_WITH_TIMEZONE",
+    "label": "Recovery Time With Timezone",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "RECOVERY_TESTS",
+    "label": "Recovery Tests",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "REMAINING_LIMITATIONS",
+    "label": "Remaining Limitations",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "AGREED_FOLLOW_UP",
+    "label": "Agreed Follow Up",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "FOLLOW_UP_DATE",
+    "label": "Follow Up Date",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  },
+  {
+    "field": "INCIDENT_IMPACT",
+    "label": "Incident Impact",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "CAUSE_STATUS",
+    "label": "Cause Status",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "RECOVERY_ACTIONS",
+    "label": "Recovery Actions",
+    "uses": [
+      {
+        "file": "support/OUTAGE_COMMUNICATION_TEMPLATE.md",
+        "line": 23
+      }
+    ]
+  },
+  {
+    "field": "P1_RESPONSE_TARGET",
+    "label": "P1 Response Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "P1_UPDATE_TARGET",
+    "label": "P1 Update Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "P2_RESPONSE_TARGET",
+    "label": "P2 Response Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "P2_UPDATE_TARGET",
+    "label": "P2 Update Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "P3_RESPONSE_TARGET",
+    "label": "P3 Response Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "P3_UPDATE_TARGET",
+    "label": "P3 Update Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "P4_RESPONSE_TARGET",
+    "label": "P4 Response Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "P4_UPDATE_TARGET",
+    "label": "P4 Update Target",
+    "uses": [
+      {
+        "file": "support/PRIORITY_LEVELS.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "TICKET_ID",
+    "label": "Ticket Id",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "REPORTED_AT",
+    "label": "Reported At",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "CHANNEL",
+    "label": "Channel",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "REPORTER",
+    "label": "Reporter",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "SUPPORT_AUTHORIZATION",
+    "label": "Support Authorization",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "ISSUE_SUMMARY",
+    "label": "Issue Summary",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "TICKET_TYPE",
+    "label": "Ticket Type",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PRIORITY",
+    "label": "Priority",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "PRIORITY_REASON",
+    "label": "Priority Reason",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "IMPACT",
+    "label": "Impact",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "DIAGNOSTIC_CONTEXT",
+    "label": "Diagnostic Context",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "EVIDENCE_REFERENCE",
+    "label": "Evidence Reference",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "TICKET_OWNER",
+    "label": "Ticket Owner",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "ACTION_LOG",
+    "label": "Action Log",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "BILLABLE_APPROVAL",
+    "label": "Billable Approval",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "RESOLUTION_EVIDENCE",
+    "label": "Resolution Evidence",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "WORK_LOG",
+    "label": "Work Log",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "CLOSURE_RECORD",
+    "label": "Closure Record",
+    "uses": [
+      {
+        "file": "support/TICKET_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "BUSINESS_NEED",
+    "label": "Business Need",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "CURRENT_TOOL_GAP",
+    "label": "Current Tool Gap",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "SEATS_AND_USAGE",
+    "label": "Seats And Usage",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "TOTAL_ANNUAL_COST",
+    "label": "Total Annual Cost",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "EXPORT_TEST_RESULT",
+    "label": "Export Test Result",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "SECURITY_REVIEW",
+    "label": "Security Review",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "MIGRATION_COST",
+    "label": "Migration Cost",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "CANCELLATION_TERMS",
+    "label": "Cancellation Terms",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "OWNER_DECISION",
+    "label": "Owner Decision",
+    "uses": [
+      {
+        "file": "tooling/ALTERNATIVES.md",
+        "line": 22
+      }
+    ]
+  },
+  {
+    "field": "TOOLING_OWNER",
+    "label": "Tooling Owner",
+    "uses": [
+      {
+        "file": "tooling/RECOMMENDED_STACK.md",
+        "line": 28
+      }
+    ]
+  },
+  {
+    "field": "SYSTEM_OF_RECORD",
+    "label": "System Of Record",
+    "uses": [
+      {
+        "file": "tooling/RECOMMENDED_STACK.md",
+        "line": 34
+      }
+    ]
+  },
+  {
+    "field": "PRIVATE_EXPORT_LOCATION",
+    "label": "Private Export Location",
+    "uses": [
+      {
+        "file": "tooling/RECOMMENDED_STACK.md",
+        "line": 34
+      }
+    ]
+  },
+  {
+    "field": "TOOL_NAME",
+    "label": "Tool Name",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "PLAN_NAME",
+    "label": "Plan Name",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "SEAT_COUNT",
+    "label": "Seat Count",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "MONTHLY_RATE",
+    "label": "Monthly Rate",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "ANNUAL_COMMITMENT",
+    "label": "Annual Commitment",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "USAGE_ASSUMPTION",
+    "label": "Usage Assumption",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "TAX_ESTIMATE",
+    "label": "Tax Estimate",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "CANCELLATION_DEADLINE",
+    "label": "Cancellation Deadline",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "BUDGET_OWNER",
+    "label": "Budget Owner",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "APPROVAL_REFERENCE",
+    "label": "Approval Reference",
+    "uses": [
+      {
+        "file": "tooling/SOFTWARE_COST_ESTIMATE.md",
+        "line": 53
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_ID",
+    "label": "Vendor Id",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_OWNER",
+    "label": "Vendor Owner",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 5
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_IDENTITY",
+    "label": "Vendor Identity",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_SERVICE",
+    "label": "Vendor Service",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 7
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_CRITICALITY",
+    "label": "Vendor Criticality",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 8
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_ACCOUNT_OWNER",
+    "label": "Vendor Account Owner",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 9
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_DATA_REVIEW",
+    "label": "Vendor Data Review",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 10
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_COST_BASIS",
+    "label": "Vendor Cost Basis",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 11
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_PAYER",
+    "label": "Vendor Payer",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 12
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_TERM",
+    "label": "Vendor Term",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 13
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_EXIT_TERMS",
+    "label": "Vendor Exit Terms",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 14
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_TERMS_RECORD",
+    "label": "Vendor Terms Record",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 15
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_SERVICE_RISKS",
+    "label": "Vendor Service Risks",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 16
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_EXIT_PLAN",
+    "label": "Vendor Exit Plan",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 17
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_APPROVAL_RECORD",
+    "label": "Vendor Approval Record",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 18
+      }
+    ]
+  },
+  {
+    "field": "VENDOR_REVIEW_STATUS",
+    "label": "Vendor Review Status",
+    "uses": [
+      {
+        "file": "vendors/VENDOR_RECORD_TEMPLATE.md",
+        "line": 19
+      }
+    ]
+  }
+]

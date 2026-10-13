@@ -1,0 +1,103 @@
+{
+  "baseCommit": "ba94af23c3cf7092b983f4b85bcf55dfef2240fe",
+  "baseTree": "7eb87329306cb891751dcb0b75a2d8eb7c9c2f2e",
+  "files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87c9591bffb8ad9f9fb666c1c1a9830efa0ecba0",
+      "size": 1784,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/87c9591bffb8ad9f9fb666c1c1a9830efa0ecba0"
+    },
+    {
+      "path": "docs/MYA_NOIRDAZ_SITE_BRIEF.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f489c21a962ee894c348770068fcaae814a54f58",
+      "size": 7742,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/f489c21a962ee894c348770068fcaae814a54f58"
+    },
+    {
+      "path": "docs/SMALL_BUSINESS_GUIDE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2698902388f0e3a07a81e4a559a2b3c98aa34950",
+      "size": 7243,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/2698902388f0e3a07a81e4a559a2b3c98aa34950"
+    },
+    {
+      "path": "planning/noirdaz/MYA_STANDARD_FORMS_PROMPT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2c1d0dcfe04a95e2d47787788bd6a9278be947e",
+      "size": 7815,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/e2c1d0dcfe04a95e2d47787788bd6a9278be947e"
+    },
+    {
+      "path": "planning/wisconsin-surplus/DEMO_AND_WORKFLOW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f09f793d1588baa921f98838e55bd5e764c62cc8",
+      "size": 3817,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/f09f793d1588baa921f98838e55bd5e764c62cc8"
+    },
+    {
+      "path": "planning/wisconsin-surplus/DISCOVERY_QUESTIONS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc73424be571c1d89722e2154b2c6c8ef18f6792",
+      "size": 3817,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/dc73424be571c1d89722e2154b2c6c8ef18f6792"
+    },
+    {
+      "path": "planning/wisconsin-surplus/LEGAL_SECURITY_CHECKLIST.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9b2e440afe96280b4fad8b123148a97afb05370",
+      "size": 4306,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/d9b2e440afe96280b4fad8b123148a97afb05370"
+    },
+    {
+      "path": "planning/wisconsin-surplus/NEXT_TODO.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "401d76e276e080ba7308d4bc277fd1e6925371a7",
+      "size": 1561,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/401d76e276e080ba7308d4bc277fd1e6925371a7"
+    },
+    {
+      "path": "planning/wisconsin-surplus/PRICING_COSTS_AND_BUSINESS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a34f5b024d72b0aac3604b64067ecf001381fefb",
+      "size": 4943,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/a34f5b024d72b0aac3604b64067ecf001381fefb"
+    },
+    {
+      "path": "planning/wisconsin-surplus/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5148c0fc55f6aea1a6a1359a89554f7a9bd7a9a4",
+      "size": 4041,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/5148c0fc55f6aea1a6a1359a89554f7a9bd7a9a4"
+    },
+    {
+      "path": "planning/wisconsin-surplus/SALES_CALL_SCRIPT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01412c3cf96be61789cd3ebfa2e841ebabbc514b",
+      "size": 3790,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/01412c3cf96be61789cd3ebfa2e841ebabbc514b"
+    },
+    {
+      "path": "planning/wisconsin-surplus/SALES_TALKING_POINTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c45d0378d0b3ac158acdb3f4b3c1014b90bee540",
+      "size": 3924,
+      "url": "https://api.github.com/repos/mastrdaz/NOIRDAZ/git/blobs/c45d0378d0b3ac158acdb3f4b3c1014b90bee540"
+    }
+  ],
+  "verification": "All original files match their exact Git blob SHA; additive business tree only."
+}
