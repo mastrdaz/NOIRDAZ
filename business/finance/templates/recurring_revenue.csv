@@ -1,0 +1,1 @@
+service_id,client_id,agreement_private_reference,service_name,currency,billing_cadence,contract_amount,monthly_equivalent,actual_start_date,effective_end_date,next_bill_date,renewal_date,notice_deadline_with_timezone,status,direct_monthly_cost,owner,last_verified_date

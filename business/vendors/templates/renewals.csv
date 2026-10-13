@@ -1,0 +1,1 @@
+item_id,item_type,provider,client_id,currency,current_cost,billing_cadence,auto_renewal,renewal_date,notice_lead_days,notice_deadline_with_timezone,review_date,payer,terms_reference,exit_lead_days,decision,final_confirmation_reference,owner,next_action

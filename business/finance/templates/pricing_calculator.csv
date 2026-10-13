@@ -1,0 +1,36 @@
+Noirdaz pricing calculator,,,
+FICTIONAL USD PLANNING EXAMPLE · Replace inputs · Owner approval required,,,
+Driver or result,Setup,Monthly,Basis and instructions
+Delivery hours,30,2,Include discovery/design/development/testing/docs/launch; recurring support and maintenance
+Loaded hourly cost,50,50,Illustrative labor burden; include founder time; avoid double-counting overhead
+Labor cost,=B4*B5,=C4*C5,Hours × loaded rate
+Vendor cost for period,100,40,Approved one-time or monthly vendor costs excluding annual line below
+Annual-only vendor charges,0,120,Setup is 0; monthly model normalizes annual charges by 12
+Annual charges allocated to period,=0,=C8/12,0 setup; annual recurring / 12
+Allocated admin overhead,100,20,Do not duplicate amounts in loaded labor
+Risk contingency cost,100,10,"Explicit planning allowance, not an approved purchase"
+Non-percentage internal cost,"=SUM(B6:B7,B9:B11)","=SUM(C6:C7,C9:C11)",Labor + vendors + normalized annual + admin + contingency
+Processor percentage,0.03,0.03,Fictional; actual processor rate must be verified
+Tax fraction on processed revenue,0,0,CPA-confirmed tax basis; zero is example only
+Revenue-based commission fraction,0,0,Written plan basis assumed pre-tax revenue; change model if different
+Effective variable fee fraction,=B13*(1+B14)+B15,=C13*(1+C14)+C15,Processor × (1 + tax) + commission
+Fixed fee per charge,0.3,0.3,Fictional; not a provider price
+Charges per period,2,1,Setup milestones count separately; monthly charges expected
+Fixed processing cost,=B17*B18,=C17*C18,Fixed fee × charge count
+Target fully loaded margin,0.45,0.45,"Fraction of pre-tax revenue, not markup"
+Minimum viable margin,0.2,0.2,"Owner-defined floor, not permission to discount"
+Pilot discount fraction,0.1,0.1,Time-limited only; pilot floor check below
+Input status,"=IF(COUNT(B4:B5,B7:B8,B10:B11,B13:B15,B17:B18,B20:B22)<14,""MISSING"",IF(OR(MIN(B4:B5,B7:B8,B10:B11,B13:B15,B17:B18,B20:B22)<0,B8<0,B13>=1,B14>=1,B15>=1,B20>=1,B21>=1,B22>=1,B21>B20,B8<>0,1-B20-B16<=0),""INVALID"",""READY""))","=IF(COUNT(C4:C5,C7:C8,C10:C11,C13:C15,C17:C18,C20:C22)<14,""MISSING"",IF(OR(MIN(C4:C5,C7:C8,C10:C11,C13:C15,C17:C18,C20:C22)<0,C8<0,C13>=1,C14>=1,C15>=1,C20>=1,C21>=1,C22>=1,C21>C20,FALSE,1-C20-C16<=0),""INVALID"",""READY""))","All inputs required; negative values, invalid fractions or denominator block prices"
+Target price denominator,"=IF(B23=""READY"",1-B20-B16,"""")","=IF(C23=""READY"",1-C20-C16,"""")",1 − target margin − effective variable fees
+Recommended pre-tax price,"=IF(B23=""READY"",ROUNDUP((B12+B19)/B24,2),"""")","=IF(C23=""READY"",ROUNDUP((C12+C19)/C24,2),"""")",Rounded UP to cents so target margin is not undercut
+Minimum viable pre-tax price,"=IF(B23=""READY"",ROUNDUP((B12+B19)/(1-B21-B16),2),"""")","=IF(C23=""READY"",ROUNDUP((C12+C19)/(1-C21-C16),2),"""")",Price needed at minimum margin
+Pilot pre-tax price,"=IF(B23=""READY"",ROUND(B25*(1-B22),2),"""")","=IF(C23=""READY"",ROUND(C25*(1-C22),2),"""")","Recommended × (1 − discount), rounded to cents"
+Candidate quote pre-tax input,3500,400,EDIT to proposed quote; this does not approve a price
+Candidate fully loaded margin,"=IF(OR(B23<>""READY"",NOT(ISNUMBER(B28)),B28<=0),"""",(B28-B12-B19-B16*B28)/B28)","=IF(OR(C23<>""READY"",NOT(ISNUMBER(C28)),C28<=0),"""",(C28-C12-C19-C16*C28)/C28)",(Candidate − nonpercentage cost − fixed fees − variable fees)/candidate
+Internal cost at candidate price,"=IF(OR(B23<>""READY"",NOT(ISNUMBER(B28)),B28<=0),"""",B12+B19+B16*B28)","=IF(OR(C23<>""READY"",NOT(ISNUMBER(C28)),C28<=0),"""",C12+C19+C16*C28)",Includes variable fees at actual candidate price
+Annual internal cost at candidate,"=""Not annualized""","=IF(ISNUMBER(C30),C30*12,"""")",Setup not annualized; monthly × 12 for full year
+Pilot floor status,"=IF(B23<>""READY"",B23,IF(B27<B26,""BLOCK BELOW FLOOR"",""OK FOR OWNER REVIEW""))","=IF(C23<>""READY"",C23,IF(C27<C26,""BLOCK BELOW FLOOR"",""OK FOR OWNER REVIEW""))",BLOCK below minimum floor; approval still required above floor
+Candidate floor status,"=IF(B23<>""READY"",B23,IF(NOT(ISNUMBER(B28)),""MISSING"",IF(B28<=0,""INVALID"",IF(B28<B26,""BLOCK BELOW FLOOR"",""OK FOR OWNER REVIEW""))))","=IF(C23<>""READY"",C23,IF(NOT(ISNUMBER(C28)),""MISSING"",IF(C28<=0,""INVALID"",IF(C28<C26,""BLOCK BELOW FLOOR"",""OK FOR OWNER REVIEW""))))",MISSING/INVALID inputs block; OK never means quote approved
+All values are planning only. Taxes collected are not revenue. Currency USD.,,,
+Accounting gross margin differs from this fully loaded economic contribution model.,,,
+Source: fictional assumptions; formulas in business/finance/PRICING_MODEL.md.,,,
